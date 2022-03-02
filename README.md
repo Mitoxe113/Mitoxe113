@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mitoxe113
 - 👀 I’m interested in Learning to Code.
-- 🌱 I’m currently learning JavaScripts and C++
+- 🌱 I’m currently learning JavaScript and C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? You can reach me on Discord! Mitoxe™#9243
 
